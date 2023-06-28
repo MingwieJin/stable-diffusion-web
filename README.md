@@ -9,7 +9,7 @@ front-end project, get image from stable diffusion
 2. img to img
 
 
-## token
+## Token
 you can see/apply for your api key at [stablediffusionapi](https://stablediffusionapi.com/settings/api)
 
 change your SD  token at /env/.env
