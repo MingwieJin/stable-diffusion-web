@@ -12,7 +12,7 @@ just like
 
 form 
 
-![image.png](https://cdn.midjourney.com/6e3dfb2e-472a-4b7a-8dc0-f45191f36b5b/0_0_384_N.webp?)
+![image.png](https://cdn.midjourney.com/6e3dfb2e-472a-4b7a-8dc0-f45191f36b5b/0_0.png?)
 
 to
 
