@@ -1,5 +1,5 @@
 # stable-diffusion-web
-front-end project, get image from stable diffusion
+A powerful, open source client-side JavaScript library for stable diffusion
 
 纯前端项目，使用stable diffusion, 开箱即用，包括text2img, img2img
 
